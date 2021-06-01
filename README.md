@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gdmusse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://user-images.githubusercontent.com/60359003/120343974-8a586600-c2cf-11eb-9da7-cf2c633ab0f7.png""/>
+  <img src="https://user-images.githubusercontent.com/60359003/120343974-8a586600-c2cf-11eb-9da7-cf2c633ab0f7.png""/>
 
 
   </div>
