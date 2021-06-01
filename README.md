@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdmusse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdmusse&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true""/>
+  <img width="150px" src="https://github-readme-stats.vercel.app/api?username=gdmusse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdmusse&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true""/>
   
 
 Hello! I'm Gabriel Musse, a fullstack software developer/mechanical Engineer who decided to deepen my knlowege in an area of great interest, technology and programming. 
