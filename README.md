@@ -1,10 +1,8 @@
 ### Hi there! 👋
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdmusse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdmusse&layout=compact&langs_count=16&theme=tokyonight&include_all_commits=true&count_private=true""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdmusse&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true""/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdmusse&exclude_repo=github-readme-stats,gdmusse.github.io)](https://github.com/gdmusse/github-readme-stats)
-
 
 Hello! I'm Gabriel Musse, a fullstack software developer/mechanical Engineer who decided to deepen my knlowege in an area of great interest, technology and programming. 
 
