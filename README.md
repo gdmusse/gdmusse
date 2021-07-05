@@ -11,6 +11,18 @@ Hello! I'm Gabriel Musse, a fullstack software developer/mechanical Engineer who
 
 I'm currently developing with the technologies: HTML, CSS, Javascript, Typescript, React, Node.js and SQL. Focused on learning new technologies and improving my knowledge whenever possible. 
 
+🛠️ Hard Skills:
+
+    Frameworks: Node.Js, React.Js
+    Programming Languages: Typescript, Javascript
+    Web Technologies: HTML, CSS
+    Databases: MySQL
+    Infrastructure: Heroku, AWS
+    Tools: Git
+    Design: Photoshop
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
