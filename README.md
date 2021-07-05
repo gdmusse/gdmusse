@@ -13,7 +13,7 @@ I'm currently developing with the technologies: HTML, CSS, Javascript, Typescrip
 
 🛠️ Hard Skills:
 
-     Frameworks: Node.Js, React.Js
+     <b>Frameworks</b>: Node.Js, React.Js
      Programming Languages: Typescript, Javascript
      Web Technologies: HTML, CSS
      Databases: MySQL
