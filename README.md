@@ -7,7 +7,7 @@
 
   </div>
 
-Hello! I'm Gabriel Musse, a fullstack software developer/mechanical Engineer who decided to deepen my knlowege in an area of great interest, technology and programming. 
+Hello! I'm Gabriel Musse, a fullstack software developer/mechanical Engineer who decided to deepen my knowledge in an area of great interest, technology and programming. 
 
 I'm currently developing with the technologies: HTML, CSS, Javascript, Typescript, React, Node.js and SQL. Focused on learning new technologies and improving my knowledge whenever possible. 
 
